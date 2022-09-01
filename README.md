@@ -1,1 +1,1 @@
-Repository for system engineering devops
+Shell permissions
